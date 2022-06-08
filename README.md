@@ -1,0 +1,2 @@
+# Web-Scrapping-using-python-and-Beautiful-Soup.
+This project intends to demonstrate web scraping on imdb.com for retrieving information about movies of various genres using Python, Beautiful Soup, and requests. Web scraping is a method that automates the process of gathering data from webpages and storing it in appropriate forms. Web scraping allows you to quickly retrieve a significant quantity of information from many websites.
